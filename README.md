@@ -2,6 +2,8 @@
 
 <h3 align="center">A passionate software engineer from Brazil</h3>
 
+###
+
 <img src="https://raw.githubusercontent.com/WRDelmanto/WRDelmanto/output/snake.svg" alt="Snake animation" />
 
 ###
