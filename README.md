@@ -2,6 +2,7 @@
 <h2 align="center">A software engineer from Brazil</h2>
 
 <h3>Languages and Tools:</h3>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrdelmanto&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&hide=jupyter%20notebook)
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@wrdelmanto&layout=compact)
