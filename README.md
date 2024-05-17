@@ -6,6 +6,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrdelmanto&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&hide=jupyter%20notebook)
 
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@wrdelmanto)
+
 <h2 align="center"><b>Thank's for visiting! :)</b></h2>
 
 <img src="https://raw.githubusercontent.com/WRDelmanto/WRDelmanto/output/snake.svg" alt="Snake animation" />
