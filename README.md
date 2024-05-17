@@ -1,4 +1,4 @@
-<h1 align="center">Hello World!
+<h1 align="center">Hello World! <br>
 	<p>👋 I'm William, a software engineer from Brazil</p>
 </h1>
 
