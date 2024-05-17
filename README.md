@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrdelmanto&size_weight=0.5&count_weight=0.5&langs_count=8&hide=jupyter&layout=compact)
 
-<h2 align="center">----- Thank's for visiting! :) -----</h2>
+<h2 align="center">Thank's for visiting! :)</h2>
 
 <img src="https://raw.githubusercontent.com/WRDelmanto/WRDelmanto/output/snake.svg" alt="Snake animation" />
 
