@@ -1,7 +1,7 @@
-<h1 align="center">
-	Hello World!
+<div>
+	<h1 align="center">Hello World!</h1>
 	<h2 align="center">👋 I'm William, a software engineer from Brazil</h2>
-</h1>
+</div>
 
 <h3>Languages and Tools:</h3>
 
