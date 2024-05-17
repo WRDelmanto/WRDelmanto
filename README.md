@@ -1,5 +1,7 @@
-<h1 align="center">Hello World!</h1>
-<h2 align="center">👋 I'm William, a software engineer from Brazil</h2>
+<h1 align="center">
+	Hello World!
+	<h2 align="center">👋 I'm William, a software engineer from Brazil</h2>
+</h1>
 
 <h3>Languages and Tools:</h3>
 
