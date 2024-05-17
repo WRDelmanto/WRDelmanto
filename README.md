@@ -1,8 +1,6 @@
 <h2>Hello World!</h2>
-
-<h3 align="center">A software engineer from Brazil</h3>
-
-<h4 align="center">A software engineer from Brazil</h4>
+<h3>I'm William</h3>
+<h4>A software engineer from Brazil</h4>
 
 <img src="https://raw.githubusercontent.com/WRDelmanto/WRDelmanto/output/snake.svg" alt="Snake animation" />
 
