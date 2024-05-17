@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrdelmanto)](https://github.com/wrdelmanto/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrdelmanto&size_weight=0.5&count_weight=0.5&hide=jupiternotebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrdelmanto&size_weight=0.5&count_weight=0.5&langs_count=10&hide=jupyternotebook)
 
 
 <img src="https://raw.githubusercontent.com/WRDelmanto/WRDelmanto/output/snake.svg" alt="Snake animation" />
