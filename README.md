@@ -4,7 +4,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrdelmanto&size_weight=0.5&count_weight=0.5&langs_count=8&hide=jupyterNotebook&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrdelmanto&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&hide=jupyter%20notebook)
 
 <h2 align="center"><b>Thank's for visiting! :)</b></h2>
 
