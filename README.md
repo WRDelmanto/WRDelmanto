@@ -1,6 +1,6 @@
 ## Hello World!
 
-<h3 align="center">A passionate software engineer from Brazil</h3>
+<h3 align="center">A software engineer from Brazil</h3>
 
 ###
 
