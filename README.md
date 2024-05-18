@@ -20,7 +20,7 @@
 <!-- World board / https://github.com/JessicaLim8/JessicaLim8 -->
 <div>
 
-<h2>Join the Community Word Cloud :cloud: :pencil2:</h2>
+## Join the Community Word Cloud :cloud: :pencil2:
 
 ### :thought_balloon: [Add a word](https://github.com/JessicaLim8/JessicaLim8/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E) to see the word cloud update in real time :rocket:
 
@@ -33,13 +33,11 @@ A new word cloud will be automatically generated when you [add your own word](ht
 </div>
 
 <!-- Final section -->
-<div>
+<div align="center">
 
-<h2 align="center"><b>Thank's for visiting! :)</b></h2>
+## Thank's for visiting! :)
 
-<img src="https://raw.githubusercontent.com/WRDelmanto/WRDelmanto/output/snake.svg" alt="Snake animation" />
-
-<img alt="centered image" height="85" src="images/br.svg"/>
+<img src="https://raw.githubusercontent.com/WRDelmanto/WRDelmanto/snake/snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -52,6 +50,9 @@ Computer animated gif
 <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" alt="Computer animated gif">
 
 Rainbow line
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" alt="Rainbow line" width="100%" height="20">
 <p align="center">
+
+BR flag
+<img src="images/br.svg" alt="centered image" height="100"/>
 -->
