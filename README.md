@@ -18,6 +18,7 @@
 </div>
 
 <!-- World board / https://github.com/JessicaLim8/JessicaLim8 -->
+<!--
 <div>
 
 ## Join the Community Word Cloud :cloud: :pencil2:
@@ -31,6 +32,7 @@ A new word cloud will be automatically generated when you [add your own word](ht
 <img src="https://raw.githubusercontent.com/JessicaLim8/JessicaLim8/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
 
 </div>
+-->
 
 <!-- Final section -->
 <div align="center">
