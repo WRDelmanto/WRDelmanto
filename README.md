@@ -17,23 +17,17 @@
 
 </div>
 
-<!-- World board / https://github.com/JessicaLim8/JessicaLim8 -->
-<!-- https://github.com/trinib/word-cloud -->
-<!--
-<div>
+<!-- Random daily joke -->
+<!-- https://github.com/ABSphreak/readme-jokes -->
+<div align="center">
 
-## Join the Community Word Cloud :cloud: :pencil2:
+### Daily Joke
 
-### :thought_balloon: [Add a word](https://github.com/JessicaLim8/JessicaLim8/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E) to see the word cloud update in real time :rocket:
-
-A new word cloud will be automatically generated when you [add your own word](https://github.com/JessicaLim8/JessicaLim8/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E). The prompt will change frequently, so be sure to come back and check it out :relaxed:
-
-:star2: Don't like the arrangement of the current word cloud? <a href="https://github.com/trinib/word-cloud/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle"><b>Regenerate it</b></a> :game_die:
-
-<img src="https://raw.githubusercontent.com/JessicaLim8/JessicaLim8/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=react)
+<!-- Alternative -->
+<!-- <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" /> -->
 
 </div>
--->
 
 <!-- Final section -->
 <div align="center">
@@ -58,4 +52,22 @@ Rainbow line
 
 BR flag
 <img src="images/br.svg" alt="centered image" height="100"/>
+-->
+
+<!-- World board / https://github.com/JessicaLim8/JessicaLim8 -->
+<!-- https://github.com/trinib/word-cloud -->
+<!--
+<div>
+
+## Join the Community Word Cloud :cloud: :pencil2:
+
+### :thought_balloon: [Add a word](https://github.com/JessicaLim8/JessicaLim8/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E) to see the word cloud update in real time :rocket:
+
+A new word cloud will be automatically generated when you [add your own word](https://github.com/JessicaLim8/JessicaLim8/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E). The prompt will change frequently, so be sure to come back and check it out :relaxed:
+
+:star2: Don't like the arrangement of the current word cloud? <a href="https://github.com/trinib/word-cloud/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle"><b>Regenerate it</b></a> :game_die:
+
+<img src="https://raw.githubusercontent.com/JessicaLim8/JessicaLim8/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
+
+</div>
 -->
