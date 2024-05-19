@@ -19,13 +19,14 @@
 
 <!-- Random daily joke -->
 <!-- https://github.com/ABSphreak/readme-jokes -->
+<!-- https://github.com/PiyushSuthar/github-readme-quotes -->
 <div align="center">
 
-### Daily Joke
+### Add some randomness to your day 🥰
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=react)
-<!-- Alternative -->
-<!-- <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" /> -->
+<br>
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=catppuccin_mocha)
 
 </div>
 
