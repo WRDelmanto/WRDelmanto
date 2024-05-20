@@ -71,7 +71,10 @@
 <!-- Saving for later -->
 <!--
 Profile counter
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wrdelmanto&label=Profile%20views&color=0e75b6&style=flat" alt="wrdelmanto" /> </p>
+https://github.com/antonkomarev/github-profile-views-counter
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=wrdelmanto&label=Profile%20views&color=0e75b6&style=flat" alt="wrdelmanto" />
+</div>
 
 Computer animated gif
 <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" alt="Computer animated gif">
