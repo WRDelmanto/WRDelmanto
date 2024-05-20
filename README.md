@@ -3,20 +3,44 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=FFFFFF&background=52FF1A00&center=true&vCenter=true&random=false&width=435&lines=Hello+World!)](https://git.io/typing-svg)
-## 👋 I'm William, a software engineer from Brazil
+### 👋 I'm William, a software engineer from Brazil
 
 </div>
 
+<hr><br>
+
 <!-- Languages and tools section -->
-<div>
+<!-- https://github.com/tandpfun/skill-icons -->
+<div align="center">
 
-### Languages and Tools:
+### Technical stuff:
 
+#### Programming and scripting languages:
+![My Skills](https://skillicons.dev/icons?i=py,cs,java,js,php,kotlin,dart,lua)
+
+#### Web development and frameworks:
+![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,flask,django,laravel,flutter,discordjs)
+
+#### Database and devops:
+![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,firebase,docker,nginx,jenkins,heroku)
+
+#### Development tools and IDEs:
+![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,androidstudio,sublime,postman,figma,anaconda)
+
+#### Version control and operating systems:
+![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,linux,ubuntu,kali,windows)
+
+#### Miscellaneous tools:
+![My Skills](https://skillicons.dev/icons?i=autocad,matlab,octave,raspberrypi,arduino,discord,pytorch,tensorflow,selenium,opencv)
+
+#### Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrdelmanto&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&hide=jupyter%20notebook)
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@wrdelmanto&layout=compact)
 
 </div>
+
+<hr><br>
 
 <!-- Random daily joke -->
 <!-- https://github.com/ABSphreak/readme-jokes -->
@@ -25,16 +49,20 @@
 
 ### Add some randomness to your day 🥰
 
+<br>
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=react)
 <br>
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=catppuccin_mocha)
 
 </div>
 
+<hr><br>
+
 <!-- Final section -->
 <div align="center">
 
-## Thank's for visiting! :)
+### Thank's for visiting! :)
 
 <img src="https://raw.githubusercontent.com/WRDelmanto/WRDelmanto/snake/snake-dark.svg" alt="Snake animation" />
 
