@@ -52,8 +52,9 @@
 <br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=react)
-<br>
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=catppuccin_mocha)
+<!--!<br>
+[Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=catppuccin_mocha)
+-->
 
 </div>
 
