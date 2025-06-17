@@ -16,19 +16,19 @@
 ### Technical stuff:
 
 #### Programming and scripting languages:
-![My Skills](https://skillicons.dev/icons?i=py,cs,java,js,php,kotlin,dart,lua)
+![My Skills](https://skillicons.dev/icons?i=py,java,js,kotlin,cs,dart,php)
 
 #### Web development and frameworks:
-![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,flask,django,laravel,flutter,discordjs)
+![My Skills](https://skillicons.dev/icons?i=html,css,react,flask,django,laravel,flutter,nodejs,discordjs)
 
 #### Database and devops:
-![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,firebase,docker,nginx,jenkins,heroku)
+![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase,docker,nginx,jenkins,heroku,supabase)
 
 #### Development tools and IDEs:
 ![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,androidstudio,sublime,postman,figma,anaconda)
 
 #### Version control and operating systems:
-![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,linux,ubuntu,kali,windows)
+![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,windows,linux,ubuntu,kali)
 
 #### Miscellaneous tools:
 ![My Skills](https://skillicons.dev/icons?i=autocad,matlab,octave,raspberrypi,arduino,discord,pytorch,tensorflow,selenium,opencv)
